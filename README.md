@@ -2,13 +2,15 @@
 
 ### About Me:
 
-Proficient Full Stack Web Developer adept at designing, developing, and maintaining dynamic web applications. Skilled in both front-end and back-end technologies to ensure robust and scalable solutions. Utilizes diverse programming languages, frameworks, and tools for creating responsive user interfaces. Ensures optimal functionality and performance across server-side operations.
+Proficient Full Stack Web Developer and IT Specialist with extensive experience in designing, developing, and maintaining dynamic web applications while managing complex network environments. Skilled in both front-end and back-end technologies, ensuring robust and scalable solutions, and adept at navigating network configurations, server management, and cybersecurity.
 
-Collaborates effectively within cross-functional teams, adapting swiftly to emerging trends. Committed to delivering high-quality code and adhering to best practices for project success. Dedicated to continuous improvement and driving innovation in web development processes. Adept at problem-solving and troubleshooting to overcome challenges efficiently. Strong attention to detail and a passion for delivering exceptional user experiences.
+In web development, I utilize diverse programming languages, frameworks, and tools to create responsive user interfaces, ensuring optimal functionality and performance across server-side operations. I collaborate effectively within cross-functional teams, adapt swiftly to emerging trends, and commit to delivering high-quality code while adhering to best practices. My passion for continuous improvement drives me to innovate in web development processes and solve challenges efficiently.
+
+As an IT Specialist, I have a strong background in managing on-premises, Google Cloud, AWS, and Azure environments, enhancing system functionality and security through strategic implementations and continuous technical upgrades. I am adept at optimizing Microsoft and Linux web servers, Microsoft Exchange, and SQL Server for performance and scalability, ensuring robustness and compliance with the latest industry standards. My technical expertise is focused on achieving business objectives and enhancing operational efficiency. I excel at problem-solving and troubleshooting, ensuring smooth project execution and delivery with meticulous attention to detail.
 
 ### Social media: 📡
 
-Contact me on LinkedIn.
+Check my bio or contact me on LinkedIn.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelos-kalofas)
 
@@ -38,32 +40,35 @@ Contact me on LinkedIn.
 
 ### Databases:
 
-|     MySQL     |   PostgreSQL  |    SQLite     |    MongoDB    | MS SQL        <br />     Server    | Oracle Database   |
-| -------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| MySQL                                                                                                           | PostgreSQL                                                                                            | SQLite                                                                                             | MongoDB                                                                                      | MS SQL<br />
+    Server                                                                                            | Oracle Database                                                                                    |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | ![MySQL                ](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) | ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg) | ![SQLite](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg) | ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg) | ![Microsoft SQL Server](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) | ![Oracle Database](https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg) |
 
 ### Environments, Testing, Other:
 
-|    Node.js    |      Git      |     Docker    |    Postman    |
-| ------------- | ------------- | ------------- | ------------- |
+| Node.js                                                                                             | Git                                                                                       | Docker                                                                                             | Postman                                                                                               |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | ![Node.js](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) | ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | ![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) | ![Postman](https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg) |
 
-
-|    Pytest     |      Jest     | React Testing <br />    Library    |    Mocha      |
-| ------------- | ------------- | ------------- | ------------- |
+| Pytest                                                                                             | Jest                                                                             | React Testing<br />
+    Library                                                              | Mocha                                                                                  |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
 | ![Pytest](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg) | ![Jest](https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg) | ![React Testing Library](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg) | ![Mocha](https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg) |
+
 ### OS:
 
 | Linux Server<br />Ubuntu/Debian<br />CentOS                                            | Ubuntu Client                                                                                   | macOS Client                                                                                 | macOS Server                                                                                 | Windows<br />XP/7/8/10/11                                                                             | Windows Server                                                                                         |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | ![Ubuntu Client](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg) | ![macOS Client](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) | ![macOS Server](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) | ![Windows Client](https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg) | ![Windows Server](https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg) |
 
-### Tools for CTF's:
 
-|   Metasploit  |   Wireshark   |   Burpsuite   |    Netcat     |      Nmap     |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img src="assets/meta.png" alt="Metasploit" width="60" height="60"> | <img src="assets/Wireshark_icon.png" alt="Wireshark" width="60" height="60"> | <img src="assets/burp.svg" alt="Burpsuite" width="60" height="60"> | <img src="assets/netcat_logo_shadow.svg" alt="Netcat" width="60" height="60"> | <img src="assets/nmap-logo.svg" alt="Nmap" width="60" height="60"> |
 
+### CyberSecurity Tools:
+
+| Metasploit                                                              | Wireshark                                                                        | Burpsuite                                                              | Netcat                                                                            | Nmap                                                                   |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| `<img src="assets/meta.png" alt="Metasploit" width="60" height="60">` | `<img src="assets/Wireshark_icon.png" alt="Wireshark" width="60" height="60">` | `<img src="assets/burp.svg" alt="Burpsuite" width="60" height="60">` | `<img src="assets/netcat_logo_shadow.svg" alt="Netcat" width="60" height="60">` | `<img src="assets/nmap-logo.svg" alt="Nmap" width="60" height="60">` |
 
 </div>
 
