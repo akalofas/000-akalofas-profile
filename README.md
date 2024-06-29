@@ -50,8 +50,10 @@ Contact me on LinkedIn.
 
 ### OS:
 
-| Ubuntu/Debian/CentOS Srv                                                                                  | Ubuntu Client                                                                                   | macOS Client                                                                                | macOS Server                                                                                  | Windows                                                                                        | Windows Server                                                                                        |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Linux Server  | Ubuntu Client | macOS Client  | macOS Server  |    Windows    | Windows Server|
+| Ubuntu/Debian |               |               |               | XP/7/8/10/11  |               |
+|    CentOS     |               |               |               |               |               |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | ![Ubuntu Client](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg) | ![macOS Client](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) | ![macOS Server](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) | ![Windows Client](https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg) | ![Windows Server](https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg) |
 
 ### Tools for CTF's:
