@@ -50,6 +50,7 @@ Contact me on LinkedIn.
 
 ### OS:
 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Linux Server  | Ubuntu Client | macOS Client  | macOS Server  |    Windows    | Windows Server|
 | Ubuntu/Debian |               |               |               | XP/7/8/10/11  |               |
 |    CentOS     |               |               |               |               |               |
