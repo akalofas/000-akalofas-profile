@@ -24,8 +24,6 @@ Check my bio or contact me on LinkedIn.
 
 ## Languages and Tools
 
-
-
 ### Languages:
 
 | Python3                                                                                   | JavaScript                                                                                            | HTML5                                                                                  | CSS3                                                                                |
@@ -40,8 +38,9 @@ Check my bio or contact me on LinkedIn.
 
 ### Databases:
 
-|    MySQL     |  PostgreSQL  |    SQLite     |   MongoDB     |     MS SQL    <br />    Server     | Oracle Database |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| MySQL                                                                                           | PostgreSQL                                                                                            | SQLite                                                                                             | MongoDB                                                                                      | MS SQL<br />
+    Server                                                                                             | Oracle Database                                                                                    |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) | ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg) | ![SQLite](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg) | ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg) | ![Microsoft SQL Server](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) | ![Oracle Database](https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg) |
 
 ### Environments, Testing, Other:
@@ -50,7 +49,8 @@ Check my bio or contact me on LinkedIn.
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | ![Node.js](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) | ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | ![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) | ![Postman](https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg) |
 
-| Pytest                                                                                             | Jest                                                                             | React Testing<br />     Library                                                              | Mocha                                                                                  |
+| Pytest                                                                                             | Jest                                                                             | React Testing<br />
+    Library                                                             | Mocha                                                                                  |
 | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
 | ![Pytest](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg) | ![Jest](https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg) | ![React Testing Library](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg) | ![Mocha](https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg) |
 
@@ -60,16 +60,24 @@ Check my bio or contact me on LinkedIn.
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | ![Ubuntu Client](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg) | ![macOS Client](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) | ![macOS Server](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) | ![Windows Client](https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg) | ![Windows Server](https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg) |
 
-
-
 ### CyberSecurity Tools:
-<div>
 
-|   Metasploit  |   Wireshark   |   Burpsuite   |    Netcat     |      Nmap     |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| `<img src="assets/meta.png" alt="Metasploit" width="60" height="60">` | `<img src="assets/Wireshark_icon.png" alt="Wireshark" width="60" height="60">` | `<img src="assets/burp.svg" alt="Burpsuite" width="60" height="60">` | `<img src="assets/netcat_logo_shadow.svg" alt="Netcat" width="60" height="60">` | `<img src="assets/nmap-logo.svg" alt="Nmap" width="60" height="60">` |
-
-</div>
+<table>
+  <tr align="center">
+    <th>Metasploit</th>
+    <th>Wireshark</th>
+    <th>Burpsuite</th>
+    <th>Netcat</th>
+    <th>Nmap</th>
+  </tr>
+  <tr align="center">
+    <td><img src="assets/meta.png" alt="Metasploit" width="60" height="60" /></td>
+    <td><img src="assets/Wireshark_icon.png" alt="Wireshark" width="60" height="60" /></td>
+    <td><img src="assets/burp.svg" alt="Burpsuite" width="60" height="60" /></td>
+    <td><img src="assets/netcat_logo_shadow.svg" alt="Netcat" width="60" height="60" /></td>
+    <td><img src="assets/nmap-logo.svg" alt="Nmap" width="60" height="60" /></td>
+  </tr>
+</table>
 
 ---
 
