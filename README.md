@@ -58,7 +58,7 @@ Contact me on LinkedIn.
 
 | Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
 | --- | --- | --- | --- | --- |
-| ![Metasploit](assets/meta.png) | ![Wireshark](assets/Wireshark_icon.svg.png) | ![Burpsuite](assets/burp.svg) | ![Netcat](assets/netcat_logo_shadow.svg) | ![Nmap](assets/nmap-logo.svg) |
+| ![Metasploit](assets/meta.png) | ![Wireshark](assets/Wireshark_icon.png) | ![Burpsuite](assets/burp.svg) | ![Netcat](assets/netcat_logo_shadow.svg) | ![Nmap](assets/nmap-logo.svg) |
 
 </div>
 
