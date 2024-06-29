@@ -23,42 +23,116 @@ Check my bio or contact me on LinkedIn.
 - Various ongoing real-life projects
 
 ## Languages and Tools
-
+<div>
 ### Languages:
 
-| Python3                                                                                   | JavaScript                                                                                            | HTML5                                                                                  | CSS3                                                                                |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) | ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) |
+<table>
+  <tr align="center">
+    <th>Python3</th>
+    <th>JavaScript</th>
+    <th>HTML5</th>
+    <th>CSS3</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" /></td>
+  </tr>
+</table>
 
 ### Frameworks:
 
-| TailwindCSS                                                                                                       | Bootstrap                                                                                          | React                                                                                  | Vite                                                                                    | Next.js                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| ![TailwindCSS](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg) | ![Bootstrap](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg) | ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg) | ![Vite](https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg) | ![Next.js](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg) |
+<table>
+  <tr align="center">
+    <th>TailwindCSS</th>
+    <th>Bootstrap</th>
+    <th>React</th>
+    <th>Vite</th>
+    <th>Next.js</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" /></td>
+  </tr>
+</table>
 
 ### Databases:
 
-| MySQL                                                                                           | PostgreSQL                                                                                            | SQLite                                                                                             | MongoDB                                                                                      | MS SQL<br />
-    Server                                                                                             | Oracle Database                                                                                    |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) | ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg) | ![SQLite](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg) | ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg) | ![Microsoft SQL Server](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) | ![Oracle Database](https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg) |
+<table>
+  <tr align="center">
+    <th>MySQL</th>
+    <th>PostgreSQL</th>
+    <th>SQLite</th>
+    <th>MongoDB</th>
+    <th>Microsoft SQL<br />Server</th>
+    <th>Oracle Database</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle Database" width="60" height="60" /></td>
+  </tr>
+</table>
 
 ### Environments, Testing, Other:
 
-| Node.js                                                                                             | Git                                                                                       | Docker                                                                                             | Postman                                                                                               |
-| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| ![Node.js](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) | ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | ![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) | ![Postman](https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg) |
+<table>
+  <tr align="center">
+    <th>Node.js</th>
+    <th>Git</th>
+    <th>Docker</th>
+    <th>Postman</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="60" height="60" /></td>
+  </tr>
+</table>
 
-| Pytest                                                                                             | Jest                                                                             | React Testing<br />
-    Library                                                             | Mocha                                                                                  |
-| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| ![Pytest](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg) | ![Jest](https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg) | ![React Testing Library](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg) | ![Mocha](https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg) |
+<table>
+  <tr align="center">
+    <th>Pytest</th>
+    <th>Jest</th>
+    <th>React Testing<br />Library</th>
+    <th>Mocha</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Testing Library" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg" alt="Mocha" width="60" height="60" /></td>
+  </tr>
+</table>
 
 ### OS:
 
-| Linux Server<br />Ubuntu/Debian<br />CentOS                                            | Ubuntu Client                                                                                   | macOS Client                                                                                 | macOS Server                                                                                 | Windows<br />XP/7/8/10/11                                                                             | Windows Server                                                                                         |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | ![Ubuntu Client](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg) | ![macOS Client](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) | ![macOS Server](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) | ![Windows Client](https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg) | ![Windows Server](https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg) |
+<table>
+  <tr align="center">
+    <th>Linux Server<br />Ubuntu/Debian<br />CentOS</th>
+    <th>Ubuntu Client</th>
+    <th>macOS Client</th>
+    <th>macOS Server</th>
+    <th>Windows<br />XP/7/8/10/11</th>
+    <th>Windows Server</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu Client" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="macOS Client" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="macOS Server" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows Client" width="60" height="60" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows Server" width="60" height="60" /></td>
+  </tr>
+</table>
 
 ### CyberSecurity Tools:
 
@@ -78,6 +152,8 @@ Check my bio or contact me on LinkedIn.
     <td><img src="assets/nmap-logo.svg" alt="Nmap" width="60" height="60" /></td>
   </tr>
 </table>
+
+</div>
 
 ---
 
