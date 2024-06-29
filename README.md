@@ -12,9 +12,15 @@ As an IT Specialist, I have a strong background in managing on-Premise, Google, 
 
 Check my bio or contact me on LinkedIn.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelos-kalofas)
+<a href="https://www.linkedin.com/in/angelos-kalofas" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="162" height="47"  />
+</a>
 
-### Algorithms [LeetCode](https://leetcode.com/kaloeake/)
+
+### Algorithms 
+  <a href="https://leetcode.com/kaloeake/" target="_blank">
+    <img src="assets/leetcode.png" alt="LeetCode" width="162" height="47" />
+  </a>
 
 ### Working on: 🚀
 
