@@ -24,7 +24,7 @@ Check my bio or contact me on LinkedIn.
 
 ## Languages and Tools
 
-<div>
+
 
 ### Languages:
 
@@ -63,10 +63,11 @@ Check my bio or contact me on LinkedIn.
 
 
 ### CyberSecurity Tools:
+<div>
 
 |   Metasploit  |   Wireshark   |   Burpsuite   |    Netcat     |      Nmap     |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img src="assets/meta.png" alt="Metasploit" width="60" height="60"> | <img src="assets/Wireshark_icon.png" alt="Wireshark" width="60" height="60"> | <img src="assets/burp.svg" alt="Burpsuite" width="60" height="60"> | <img src="assets/netcat_logo_shadow.svg" alt="Netcat" width="60" height="60"> | <img src="assets/nmap-logo.svg" alt="Nmap" width="60" height="60"> |
+| `<img src="assets/meta.png" alt="Metasploit" width="60" height="60">` | `<img src="assets/Wireshark_icon.png" alt="Wireshark" width="60" height="60">` | `<img src="assets/burp.svg" alt="Burpsuite" width="60" height="60">` | `<img src="assets/netcat_logo_shadow.svg" alt="Netcat" width="60" height="60">` | `<img src="assets/nmap-logo.svg" alt="Nmap" width="60" height="60">` |
 
 </div>
 
