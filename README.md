@@ -34,7 +34,7 @@ Contact me on LinkedIn.
 
 | TailwindCSS | Bootstrap | React | Vite | Next.js |
 | --- | --- | --- | --- | --- |
-| ![TailwindCSS](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg) | ![Bootstrap](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg) | ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg) | ![Vite](https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg) | ![Next.js](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg) |
+| ![TailwindCSS](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg) | ![Bootstrap](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg) | ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg) | ![Vite](https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg) | ![Next.js](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg) |
 
 ### Databases:
 
