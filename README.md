@@ -45,12 +45,12 @@ Contact me on LinkedIn.
 ### Environments, Testing, Other:
 
 |    Node.js    |      Git      |     Docker    |    Postman    |
-| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | ![Node.js](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) | ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | ![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) | ![Postman](https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg) |
 
 
-|    Pytest     |      Jest     | React Testing<br /> Library |    Mocha      |
-| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+|    Pytest     |      Jest     | React Testing <br />    Library    |    Mocha      |
+| ------------- | ------------- | ------------- | ------------- |
 | ![Pytest](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg) | ![Jest](https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg) | ![React Testing Library](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg) | ![Mocha](https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg) |
 ### OS:
 
@@ -60,9 +60,8 @@ Contact me on LinkedIn.
 
 ### Tools for CTF's:
 
-| Metasploit    |   Wireshark   |   Burpsuite   |    Netcat     |      Nmap     |
-
-| ---------------------------- | ------------------------------------- | --------------------------- | -------------------------------------- | --------------------------- |
+|   Metasploit  |   Wireshark   |   Burpsuite   |    Netcat     |      Nmap     |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | ![Metasploit](assets/meta.png) | ![Wireshark](assets/Wireshark_icon.png) | ![Burpsuite](assets/burp.svg) | ![Netcat](assets/netcat_logo_shadow.svg) | ![Nmap](assets/nmap-logo.svg) |
 
 </div>
