@@ -24,6 +24,7 @@ Check my bio or contact me on LinkedIn.
 
 ## Languages and Tools
 <div>
+
 ### Languages:
 
 <table>
