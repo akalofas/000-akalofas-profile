@@ -40,10 +40,9 @@ Check my bio or contact me on LinkedIn.
 
 ### Databases:
 
-|    MySQL     |  PostgreSQL  |    SQLite     |   MongoDB     |     MS SQL    <br />
-    Server    | Oracle Database |
+|    MySQL     |  PostgreSQL  |    SQLite     |   MongoDB     |     MS SQL    <br />    Server     | Oracle Database |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| ![MySQL                ](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) | ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg) | ![SQLite](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg) | ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg) | ![Microsoft SQL Server](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) | ![Oracle Database](https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg) |
+| ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) | ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg) | ![SQLite](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg) | ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg) | ![Microsoft SQL Server](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) | ![Oracle Database](https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg) |
 
 ### Environments, Testing, Other:
 
